@@ -1,0 +1,70 @@
+name: flutter_motionmartial
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  http: ^1.2.1
+  camera: ^0.11.0+1
+  image_picker: ^1.1.2
+  shared_preferences: ^2.0.11
+  flutter_secure_storage: ^9.2.2
+  page_transition: ^2.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/signal.png
+  - assets/vectors/forgot_password_illustration_x2.svg
+  - assets/images/article.jpeg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/home_23_x2.svg
+  - assets/vectors/group_4_x2.svg
+  - assets/vectors/group_x2.svg
+  - assets/images/ellipse_2.jpeg
+  - assets/vectors/vector_42_x2.svg
+  - assets/vectors/group_2_x2.svg
+  - assets/vectors/bold_duotone_essentional_ui_trash_bin_2_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/home_21_x2.svg
+  - assets/vectors/bold_duotone_essentional_ui_danger_triangle_x2.svg
+  - assets/vectors/outline_messages_coversation_square_forward_x2.svg
+  - assets/vectors/vector_51_x2.svg
+  - assets/vectors/vector_27_x2.svg
+  - assets/vectors/vector_52_x2.svg
+  - assets/vectors/forgot_password_illustration_1_x2.svg
+  - assets/images/boy.png
+  - assets/images/girl.png
+  - assets/vectors/figpie_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/home_22_x2.svg
+  - assets/vectors/group_3_x2.svg
+  - assets/vectors/vector_35_x2.svg
+  - assets/vectors/vector_33_x2.svg
+  - assets/vectors/vector_23_x2.svg
+  - assets/vectors/component_1_x2.svg
+  - assets/images/logo.png
+  - assets/images/free_icon_google_3002211.png
+  - assets/vectors/group_1265_x2.svg
+  - assets/vectors/vector_50_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/group_12651_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/settings.svg
+
